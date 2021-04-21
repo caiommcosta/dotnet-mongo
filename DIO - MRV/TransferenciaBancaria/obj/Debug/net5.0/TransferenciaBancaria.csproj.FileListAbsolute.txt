@@ -1,0 +1,16 @@
+E:\Workspace\DIO - MRV\TransferenciaBancaria\bin\Debug\net5.0\TransferenciaBancaria.exe
+E:\Workspace\DIO - MRV\TransferenciaBancaria\bin\Debug\net5.0\TransferenciaBancaria.deps.json
+E:\Workspace\DIO - MRV\TransferenciaBancaria\bin\Debug\net5.0\TransferenciaBancaria.runtimeconfig.json
+E:\Workspace\DIO - MRV\TransferenciaBancaria\bin\Debug\net5.0\TransferenciaBancaria.runtimeconfig.dev.json
+E:\Workspace\DIO - MRV\TransferenciaBancaria\bin\Debug\net5.0\TransferenciaBancaria.dll
+E:\Workspace\DIO - MRV\TransferenciaBancaria\bin\Debug\net5.0\ref\TransferenciaBancaria.dll
+E:\Workspace\DIO - MRV\TransferenciaBancaria\bin\Debug\net5.0\TransferenciaBancaria.pdb
+E:\Workspace\DIO - MRV\TransferenciaBancaria\obj\Debug\net5.0\TransferenciaBancaria.csprojAssemblyReference.cache
+E:\Workspace\DIO - MRV\TransferenciaBancaria\obj\Debug\net5.0\TransferenciaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace\DIO - MRV\TransferenciaBancaria\obj\Debug\net5.0\TransferenciaBancaria.AssemblyInfoInputs.cache
+E:\Workspace\DIO - MRV\TransferenciaBancaria\obj\Debug\net5.0\TransferenciaBancaria.AssemblyInfo.cs
+E:\Workspace\DIO - MRV\TransferenciaBancaria\obj\Debug\net5.0\TransferenciaBancaria.csproj.CoreCompileInputs.cache
+E:\Workspace\DIO - MRV\TransferenciaBancaria\obj\Debug\net5.0\TransferenciaBancaria.dll
+E:\Workspace\DIO - MRV\TransferenciaBancaria\obj\Debug\net5.0\ref\TransferenciaBancaria.dll
+E:\Workspace\DIO - MRV\TransferenciaBancaria\obj\Debug\net5.0\TransferenciaBancaria.pdb
+E:\Workspace\DIO - MRV\TransferenciaBancaria\obj\Debug\net5.0\TransferenciaBancaria.genruntimeconfig.cache
